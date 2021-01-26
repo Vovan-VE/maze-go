@@ -1,7 +1,7 @@
 The Maze Project in Go
 ======================
 
-[![Ready: 57%](https://img.shields.io/badge/ready-71%25-important)
+[![Ready: 57%](https://img.shields.io/badge/ready-57%25-important)
 ![CLI: ready](https://img.shields.io/badge/-cli-success)
 ![generate: ready](https://img.shields.io/badge/-generate-success)
 ![solve: not ready](https://img.shields.io/badge/-solve-critical)
